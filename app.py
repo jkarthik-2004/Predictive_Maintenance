@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 
-rfc = joblib.load('model.joblib')
+rfc = joblib.load('model2.joblib')
 
 st.title("Machine Predictive Maintenance Classification")
 
