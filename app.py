@@ -58,4 +58,5 @@ st.success(failure_pred)
 
 st.markdown("---")
 st.text("Team 10")
-st.text("2021BCS0022, 2021BCS0048, 2021BEC0018)
+st.text("2021BCS0022, 2021BCS0048, 2021BEC0018")
+st.markdown("[Author: RushikeshKothawade](https://github.com/RushikeshKothawade07/predictive-maintenance-ML)")
