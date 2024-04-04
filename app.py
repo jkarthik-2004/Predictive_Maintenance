@@ -54,3 +54,8 @@ if st.button('Predict Failure'):
         failure_pred = 'No Failure'
     
 st.success(failure_pred)
+
+
+st.markdown("---")
+st.text("Team 10")
+st.text("2021BCS0022, 2021BCS0048, 2021BEC0018)
